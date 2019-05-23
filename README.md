@@ -20,3 +20,10 @@ Please get in touch if you find any mistake or problem in running these scripts.
 
 # DOI and versions
 
+Version Identifier: <a href="https://doi.org/10.5281/zenodo.3194171"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.3194171.svg" alt="DOI"></a>
+
+You can cite all versions by using the concept DOI <a href="10.5281/zenodo.3194170"> that represents all versions, and will always resolve to the latest one.
+
+However, it is recommended that you cite the specific version, for example for version 1.0:
+
+Susanne Köhler. (2019, May 23). susannekoehler/BTC-LCA: Pre-publication release (Version v1.0). Zenodo. https://doi.org/10.5281/zenodo.3194171
