@@ -1,7 +1,7 @@
 # BTC-LCA
 # Description
 
-Köhler S and Pizzol M, Life Cycle Assessment of Bitcoin Mining, (under review), doi to be added.
+<i>Köhler S and Pizzol M, Life Cycle Assessment of Bitcoin Mining</i>, doi to be added.
 
 The supplementary materials to the article include the raw data:
 
